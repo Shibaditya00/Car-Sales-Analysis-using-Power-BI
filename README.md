@@ -1,8 +1,6 @@
 ---
 
-# 📊 **Car Sales Dashboard – Power BI Project**
-
-*A Data Analytics & BI Dashboard for Sales Performance Tracking*
+# 📊 **Car Sales Analysis using Power BI**
 
 ---
 
